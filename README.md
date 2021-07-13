@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himansu
 - 📱 I’m an iOS Developer 
-- 👨‍💻I am an enthusiastic developer
+- 👨‍💻 I’m an enthusiastic developer
 
 <!---
 himansudev/himansudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
